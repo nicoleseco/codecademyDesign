@@ -1,0 +1,140 @@
+header h1 {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Arsenal SC", sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: Arsenal, sans-serif;
+    font-size: 28px;
+    font-weight:400;
+}
+
+p {
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.colors {
+    border: 1px solid gray;
+    margin: auto;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.colorheader {
+    text-align: center;
+}
+
+.colorblockcontainer {
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.colorblock1 {
+    width: 25%;
+    height: 100px;
+    background-color: #551313;
+    display: inline;
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+}
+
+.colorblock1 p {
+    justify-content: center;
+    margin-top: 40px;
+}
+
+
+.colorblock2 {
+    width: 25%;
+    background-color: #EC665E;
+    display: inline;
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+}
+
+.colorblock2 p {
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.colorblock3 {
+    width: 25%;
+    background-color: #FFF5F2;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+}
+
+.colorblock3 p {
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.colorblock4 {
+    width: 25%;
+    background-color: #F3EED9;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+}
+
+.colorblock4 p {
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.fonts {
+    border: 1px solid gray;
+    margin: auto;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.fontheader {
+    text-align: center;
+}
+
+.styles {
+    border: 1px solid gray;
+    margin: auto;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.stylesheader {
+    text-align: center;
+}
+
+.font1 {
+    font-family: "Arsenal SC", sans-serif;
+}
+
+.font1 span {
+    text-decoration: underline;
+}
+
+.font2{
+    font-family: Arsenal, sans-serif;
+}
+
+.font2 span {
+    text-decoration: underline;
+}
+
+.font3{
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+
+.font3 span {
+    text-decoration: underline;
+}
